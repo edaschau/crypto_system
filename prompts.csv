@@ -1,0 +1,6 @@
+aspect,prompt
+Regulatory Impact,"Read the following news article about Bitcoin and rate the regulatory impact from 1 to 10, where 1 means very negative impact and 10 means very positive impact."
+Technological Impact,"Read the following news article about Bitcoin and rate the technological impact from 1 to 10, where 1 means very negative impact and 10 means very positive impact."
+Market Adoption Impact,"Read the following news article about Bitcoin and rate the market adoption impact from 1 to 10, where 1 means very negative impact and 10 means very positive impact."
+Macroeconomic Implications,"Read the following news article about Bitcoin and rate the macroeconomic implications from 1 to 10, where 1 means very negative implications and 10 means very positive implications."
+Overall Sentiment,"Read the following news article about Bitcoin and rate the overall sentiment from 1 to 10, where 1 means very negative sentiment and 10 means very positive sentiment."
